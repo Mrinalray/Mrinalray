@@ -30,18 +30,7 @@
 ---
 
 ## Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/Mrinalr0y/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30"/>
-  </a>
-  <a href="https://twitter.com/Mrinalr0y" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="30"/>
-  </a>
-  <a href="https://instagram.com/Mrinalr0y" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30"/>
-  </a>
-  <!-- Add your custom social media logo -->  
-  <a href="https://Mrinalroy.netlify.app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/website.svg" alt="Website" width="30"/>
-
-</p>
+[![Website](https://img.shields.io/badge/Website-101010?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Mrinalroy.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mrinalr0y)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mrinalr0y)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Mrinalr0y)
