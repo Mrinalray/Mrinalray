@@ -1,27 +1,47 @@
-# Hello, I'm Mrinal Roy! 👋
+<h1 align="center">Hello, I'm Mrinal Roy 👋</h1>
+<p align="center">Learning Data Science from IIT Madras</p>
+
+---
 
 ## About Me
-- Learning Data Science from IIT Madras
-- 💻 I enjoy exploring new technologies and programming languages
-- 🌐 Trying to create my own small projects and platforms
-  
+- 💻 I love exploring new technologies and frameworks.
+- 🌱 Currently learning advanced JavaScript and Python projects.
+- 🔭 I’m trying to create my own projects and contribute to open source.
 
 ---
 
-## 🛠️ Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
----
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## My Most Used Languages
+
+![Python](https://img.shields.io/badge/Python-50%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow)
+![HTML](https://img.shields.io/badge/HTML-20%25-orange)
 
 ---
 
-## Social Media
-[![Website](https://img.shields.io/badge/Website-101010?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Mrinalroy.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mrinalr0y)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mrinalr0y)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Mrinalr0y)
+## What I Use
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+---
+
+## Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/Mrinalr0y/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30"/>
+  </a>
+  <a href="https://twitter.com/Mrinalr0y" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="30"/>
+  </a>
+  <a href="https://instagram.com/Mrinalr0y" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30"/>
+  </a>
+  <!-- Add your custom social media logo -->  
+  <a href="https://Mrinalroy.netlify.app" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/website.svg" alt="Website" width="30"/>
+
+</p>
