@@ -4,66 +4,65 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-### 👨‍💻 Who Am I?
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Mrinal+Roy+👋;Data+Science+%40+IIT+Madras+🎓;Web+Developer+%26+Tech+Explorer+🚀;Building+Cool+Stuff+One+Line+at+a+Time+✨)](https://git.io/typing-svg)
 
-```
-┌─────────────────────────────────┐
-│  $ whoami                       │
-│  > Mrinal Roy                   │
-│                                 │
-│  $ cat about.txt                │
-│  > Student @ IIT Madras         │
-│  > Loves building for the web   │
-│  > Python & JS are my tools     │
-│  > Open source enthusiast       │
-│  > Night-coder ☕               │
-└─────────────────────────────────┘
-```
-
-</td>
-<td align="center" width="50%">
-
-### 🌐 What I'm Building
-
-```
-┌─────────────────────────────────┐
-│  Frontend  ██████████░  90%     │
-│  Backend   ███████░░░░  65%     │
-│  DSA       ████████░░░  75%     │
-│  ML/DS     ██████░░░░░  55%     │
-│  DevOps    ████░░░░░░░  35%     │
-│                                 │
-│  Status: Always learning 🚀     │
-└─────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
+## 👨‍💻 About Me
+
+```
+$ whoami
+> Mrinal Roy — Student @ IIT Madras
+
+$ cat interests.txt
+> 🌐 Web Development (Frontend + Backend)
+> 🐍 Python & JavaScript are my weapons
+> 📊 Data Science & Machine Learning
+> 🔓 Open Source Enthusiast
+> ☕ Night-coder & Bug Slayer
+
+$ echo $STATUS
+> Always learning, always building 🚀
+```
+
+---
+
+
+
+## 🛠️ My Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrinalr0y&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinalr0y&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
-
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Mrinalr0y&theme=midnight-purple&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Mrinalray&theme=midnight-purple&hide_border=true" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -72,18 +71,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrinalr0y/Mrinalr0y/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrinalr0y/Mrinalr0y/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Mrinalr0y/Mrinalr0y/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrinalray/Mrinalray/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrinalray/Mrinalray/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Mrinalray/Mrinalray/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
-
-<br/>
-
----
-
-<br/>
 
 ---
 
@@ -92,14 +85,14 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-302b63?style=for-the-badge)](https://Mrinalroy.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mrinalr0y)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mrinalr0y)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Mrinalr0y)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-302b63?style=for-the-badge)](https://Mrinalroy.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mrinalray)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mrinalray)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Mrinalray)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mrinalr0y&label=Profile+Visits&color=302b63&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Mrinalray&label=Profile+Visits&color=302b63&style=flat" />
 
 <br/><br/>
 
